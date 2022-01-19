@@ -1,0 +1,31 @@
+body
+{
+    background-color: darkgrey;
+}
+
+.header_div
+{
+    background-color: cadetblue;
+    font-family: Inconsolata;
+    color: black;
+}
+
+.main_div
+{
+    color:teal;
+    font-family: 'Inconsolata';
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: thistle;
+    color: rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
